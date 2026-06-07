@@ -34,8 +34,8 @@ To write a Java program to demonstrate the **Observer Pattern**, where multiple 
 ```java
 /*
 Program to implement Behaviour Pattern using Java (Observer Pattern)
-Developed by: SHANTHARAM M
-RegisterNumber: 212224040307
+Developed by: RAHUL S
+Register Number:212224040259
 */
 
 import java.util.*;
