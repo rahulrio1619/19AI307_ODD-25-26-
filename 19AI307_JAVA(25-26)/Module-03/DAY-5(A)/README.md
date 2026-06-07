@@ -38,8 +38,8 @@ To write a Java program to demonstrate **thread synchronization** using `synchro
 ```java
 /*
 Program to implement Multithreading Synchronization using Java
-Developed by: SHANTHARAM M
-RegisterNumber: 212224040307
+Developed by: RAHUL S
+Register Number:212224040259
 */
 
 import java.util.*;
