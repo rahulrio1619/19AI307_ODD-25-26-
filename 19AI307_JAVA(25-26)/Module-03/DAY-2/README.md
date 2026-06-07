@@ -26,8 +26,8 @@ To create a Java program demonstrating method overriding by defining a base clas
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: SHANTHARAM M
-Register Number:212224040307
+Developed by: RAHUL S
+Register Number:212224040259
 */
 ```
 
